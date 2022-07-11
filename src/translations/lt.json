@@ -1,0 +1,15 @@
+{
+  "common": {
+    "chooseLang": "Pasirinkite Kalba",
+    "header": "Opus Užduotis",
+    "headerBottomText": "Šiame puslapyje galite apskaičiuoti laiką tarp dviejų datų",
+    "mainHeader": "Raskite laiką tarp datų",
+    "startDate": "Pradžios data",
+    "endDate": "Pabaigos data",
+    "timeResult": "Laikotarpis tarp nurodytų datų",
+    "months": "mėnesių",
+    "days": "dienų",
+    "hours": "valandų",
+    "submit": "Apskaičiuoti"
+  }
+}

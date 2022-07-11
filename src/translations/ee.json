@@ -1,0 +1,16 @@
+
+{
+  "common": {
+    "chooseLang": "Vali keel",
+    "header": "Opus Ülesanne",
+    "headerBottomText": "Sellel lehel saab arvutada kahe kuupäeva vahelist aega",
+    "mainHeader": "Arvuta kahe kuupäeva vahe",
+    "startDate": "Algus kuupäev",
+    "endDate": "Lõpp kuupäev",
+    "timeResult": "Kahe kuupäeva vahele jääb",
+    "months": "kuud",
+    "days": "päeva",
+    "hours": "tundi",
+    "submit": "Arvuta"
+  }
+}

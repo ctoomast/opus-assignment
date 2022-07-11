@@ -1,0 +1,15 @@
+{
+  "common": {
+    "chooseLang": "Choose Language",
+    "header": "Opus Assignment",
+    "headerBottomText": "On this page you can calculate time between two dates",
+    "mainHeader": "Find Time between Dates",
+    "startDate": "Beginning Date",
+    "endDate": "Ending Date",
+    "timeResult": "Timespan between given dates",
+    "months": "months",
+    "days": "days",
+    "hours": "hours",
+    "submit": "Calculate"
+  }
+}

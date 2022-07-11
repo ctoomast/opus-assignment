@@ -1,0 +1,15 @@
+{
+  "common": {
+    "chooseLang": "Sprache wählen",
+    "header": "Opus-Aufgabe",
+    "headerBottomText": "Auf dieser Seite kannst du die Zeit zwischen zwei Daten errechnen",
+    "mainHeader": "Finde Zeit zwischen zwei Daten",
+    "startDate": "Startdatum",
+    "endDate": "Enddatum",
+    "timeResult": "Zeitspanne zwischen beider Daten",
+    "months": "Monate",
+    "days": "Tage",
+    "hours": "Stunden",
+    "submit": "Eingeben"
+  }
+}
